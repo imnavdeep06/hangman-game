@@ -40,3 +40,9 @@
 "debugging", "framework", "parameter", "inheritance", "constructor", "encapsulation", "multithreading",
 "docker", "github", "firebase", "vscode", "react", "django", "flask", "terminal", "notebook", "linux", "android",
 "tensorflow"]
+
+
+You can modify this list inside the `hangman.py` file as needed.
+
+---
+
