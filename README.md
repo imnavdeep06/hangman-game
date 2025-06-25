@@ -24,12 +24,19 @@
 ## 🔧 Features
 
 ✅ ASCII-based Hangman drawing  
-✅ 100% Python — no extra packages required  
+✅ 100% Python — no external packages  
 ✅ Prevents repeated guesses  
-✅ Custom word list with **programming terms**  
-✅ Clean code, easy to extend (GUI, word hints, difficulty levels)
+✅ Word list full of real programming terms  
+✅ Beginner-friendly and easy to expand
 
 ---
 
-## 🧠 Sample Programming Word List
+## 🧠 Word List (Programming-Themed)
 
+["python", "programming", "openai", "hangman", "challenge", "keyboard", "laptop",
+"loop", "code", "java", "bash", "html", "byte", "list", "bool", "node", "data", "json", "git", "api", "bug", "cli",
+"syntax", "object", "method", "binary", "script", "string", "module", "import", "lambda", "buffer", "widget", "variable",
+"integer", "boolean", "algorithm", "recursion", "compiler", "function", "database", "iteration", "exception",
+"debugging", "framework", "parameter", "inheritance", "constructor", "encapsulation", "multithreading",
+"docker", "github", "firebase", "vscode", "react", "django", "flask", "terminal", "notebook", "linux", "android",
+"tensorflow"]
